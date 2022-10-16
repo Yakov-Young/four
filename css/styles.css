@@ -1,0 +1,11 @@
+#title {
+    background-color: #ff3c68;
+}
+.download-button {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 3%
+}
+.rotated {
+    transform: rotate(25deg);
+  }
